@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Kirill. Welcome! :v:
 I learn Java at [Job4j](https://job4j.ru/)
+projects
+
 -
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Kirprox&hide=stars,prs,issues,contribs)
 
