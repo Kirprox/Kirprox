@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 My name is Kirill. Welcome! :v:
 I learn Java at [Job4j](https://job4j.ru/)
 projects
